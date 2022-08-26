@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="55cm" height="37cm" viewBox="69 59 1099 734" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="494.116" y="287.952" width="226.2" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="494.116" y="287.952" width="226.2" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="607.216" y="301.952">Users</text>
+    <rect style="fill: #ffffff" x="494.116" y="305.952" width="226.2" height="180"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="494.116" y="305.952" width="226.2" height="180"/>
+    <polygon style="fill: #000000" points="497.116,315.952 499.116,318.952 501.116,315.952 499.116,312.952 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503.116" y="321.952">user_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605.516" y="321.952">INTEGER</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="503.116" y1="323.552" x2="659.416" y2="323.552"/>
+    <ellipse style="fill: #000000" cx="499.116" cy="331.952" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503.116" y="337.952">email</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605.516" y="337.952">VARCHAR (255)</text>
+    <ellipse style="fill: #000000" cx="499.116" cy="347.952" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503.116" y="353.952">password</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605.516" y="353.952">VARCHAR (30)</text>
+    <ellipse style="fill: #000000" cx="499.116" cy="363.952" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503.116" y="369.952">first_name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605.516" y="369.952">CHARACTER (15)</text>
+    <ellipse style="fill: #000000" cx="499.116" cy="379.952" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503.116" y="385.952">last_name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605.516" y="385.952">CHARACTER (15)</text>
+    <ellipse style="fill: #000000" cx="499.116" cy="395.952" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503.116" y="401.952">dob</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605.516" y="401.952">DATE</text>
+    <ellipse style="fill: #000000" cx="499.116" cy="411.952" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503.116" y="417.952">gender</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605.516" y="417.952">CHARACTER (1)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="499.116" cy="427.952" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503.116" y="433.952">location</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605.516" y="433.952">VARCHAR (30)</text>
+    <ellipse style="fill: #000000" cx="499.116" cy="443.952" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503.116" y="449.952">phone_number</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605.516" y="449.952">VARCHAR (10)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="499.116" cy="459.952" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503.116" y="465.952">photo</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605.516" y="465.952">BYTEA</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="499.116" cy="475.952" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="503.116" y="481.952">description</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605.516" y="481.952">TEXT</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="153.652" y="286.236" width="164.6" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="153.652" y="286.236" width="164.6" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="235.952" y="300.236">Messages</text>
+    <rect style="fill: #ffffff" x="153.652" y="304.236" width="164.6" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="153.652" y="304.236" width="164.6" height="100"/>
+    <polygon style="fill: #000000" points="156.652,314.236 158.652,317.236 160.652,314.236 158.652,311.236 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="162.652" y="320.236">msg_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="241.952" y="320.236">BIGINT</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="162.652" y1="321.836" x2="288.152" y2="321.836"/>
+    <ellipse style="fill: #000000" cx="158.652" cy="330.236" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="162.652" y="336.236">timestamp</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="241.952" y="336.236">TIMESTAMP</text>
+    <ellipse style="fill: #000000" cx="158.652" cy="346.236" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="162.652" y="352.236">sender</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="241.952" y="352.236">INTEGER</text>
+    <ellipse style="fill: #000000" cx="158.652" cy="362.236" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="162.652" y="368.236">receiver</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="241.952" y="368.236">INTEGER</text>
+    <ellipse style="fill: #000000" cx="158.652" cy="378.236" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="162.652" y="384.236">message</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="241.952" y="384.236">TEXT</text>
+    <ellipse style="fill: #000000" cx="158.652" cy="394.236" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="162.652" y="400.236">status</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="241.952" y="400.236">BOOLEAN</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="884.624" y="286.46" width="195.4" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="884.624" y="286.46" width="195.4" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="982.324" y="300.46">Pages</text>
+    <rect style="fill: #ffffff" x="884.624" y="304.46" width="195.4" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="884.624" y="304.46" width="195.4" height="68"/>
+    <polygon style="fill: #000000" points="887.624,314.46 889.624,317.46 891.624,314.46 889.624,311.46 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="893.624" y="320.46">page_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="988.324" y="320.46">INTEGER</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="893.624" y1="322.06" x2="1042.22" y2="322.06"/>
+    <ellipse style="fill: #000000" cx="889.624" cy="330.46" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="893.624" y="336.46">page_name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="988.324" y="336.46">VARCHAR(50)</text>
+    <ellipse style="fill: #000000" cx="889.624" cy="346.46" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="893.624" y="352.46">user_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="988.324" y="352.46">INTEGER</text>
+    <ellipse style="fill: #000000" cx="889.624" cy="362.46" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="893.624" y="368.46">description</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="988.324" y="368.46">TEXT</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="897.918" y="465.92" width="133.8" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="897.918" y="465.92" width="133.8" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="964.818" y="479.92">Followers</text>
+    <rect style="fill: #ffffff" x="897.918" y="483.92" width="133.8" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="897.918" y="483.92" width="133.8" height="36"/>
+    <ellipse style="fill: #000000" cx="902.918" cy="493.92" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="906.918" y="499.92">page_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="970.818" y="499.92">INTEGER</text>
+    <ellipse style="fill: #000000" cx="902.918" cy="509.92" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="906.918" y="515.92">user_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="970.818" y="515.92">INTEGER</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="144.549" y="617.65" width="187.7" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="144.549" y="617.65" width="187.7" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="238.399" y="631.65">Posts</text>
+    <rect style="fill: #ffffff" x="144.549" y="635.65" width="187.7" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="144.549" y="635.65" width="187.7" height="84"/>
+    <ellipse style="fill: #000000" cx="149.549" cy="645.65" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153.549" y="651.65">user_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="255.949" y="651.65">INTEGER</text>
+    <polygon style="fill: #000000" points="147.549,661.65 149.549,664.65 151.549,661.65 149.549,658.65 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153.549" y="667.65">post_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="255.949" y="667.65">INTEGER</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="153.549" y1="669.25" x2="309.849" y2="669.25"/>
+    <ellipse style="fill: #000000" cx="149.549" cy="677.65" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153.549" y="683.65">timestamp</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="255.949" y="683.65">TIMESTAMP</text>
+    <ellipse style="fill: #000000" cx="149.549" cy="693.65" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153.549" y="699.65">post_content</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="255.949" y="699.65">TEXT</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="149.549" cy="709.65" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153.549" y="715.65">page_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="255.949" y="715.65">INTEGER</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="405.574" y="633.888" width="133.8" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="405.574" y="633.888" width="133.8" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="472.474" y="647.888">Post Likes</text>
+    <rect style="fill: #ffffff" x="405.574" y="651.888" width="133.8" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="405.574" y="651.888" width="133.8" height="36"/>
+    <ellipse style="fill: #000000" cx="410.574" cy="661.888" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="414.574" y="667.888">post_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="478.474" y="667.888">INTEGER</text>
+    <ellipse style="fill: #000000" cx="410.574" cy="677.888" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="414.574" y="683.888">user_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="478.474" y="683.888">INTEGER</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="869.24" y="601.012" width="210.8" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="869.24" y="601.012" width="210.8" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="974.64" y="615.012">Post Comments</text>
+    <rect style="fill: #ffffff" x="869.24" y="619.012" width="210.8" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="869.24" y="619.012" width="210.8" height="84"/>
+    <ellipse style="fill: #000000" cx="874.24" cy="629.012" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="878.24" y="635.012">user_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1003.74" y="635.012">INTEGER</text>
+    <ellipse style="fill: #000000" cx="874.24" cy="645.012" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="878.24" y="651.012">post_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1003.74" y="651.012">INTEGER</text>
+    <polygon style="fill: #000000" points="872.24,661.012 874.24,664.012 876.24,661.012 874.24,658.012 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="878.24" y="667.012">comment_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1003.74" y="667.012">INTEGER</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="878.24" y1="668.612" x2="1057.64" y2="668.612"/>
+    <ellipse style="fill: #000000" cx="874.24" cy="677.012" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="878.24" y="683.012">timestamp</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1003.74" y="683.012">TIMESTAMP</text>
+    <ellipse style="fill: #000000" cx="874.24" cy="693.012" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="878.24" y="699.012">comment_content</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1003.74" y="699.012">TEXT</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="627.7" y="633.116" width="156.9" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="627.7" y="633.116" width="156.9" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="706.15" y="647.116">Comment Likes</text>
+    <rect style="fill: #ffffff" x="627.7" y="651.116" width="156.9" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="627.7" y="651.116" width="156.9" height="36"/>
+    <polygon style="fill: #000000" points="630.7,661.116 632.7,664.116 634.7,661.116 632.7,658.116 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="636.7" y="667.116">comment_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="723.7" y="667.116">INTEGER</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="636.7" y1="668.716" x2="777.6" y2="668.716"/>
+    <ellipse style="fill: #000000" cx="632.7" cy="677.116" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="636.7" y="683.116">user_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="723.7" y="683.116">INTEGER</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="153.828" y="470.75" width="195.4" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="153.828" y="470.75" width="195.4" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="251.528" y="484.75">Friends</text>
+    <rect style="fill: #ffffff" x="153.828" y="488.75" width="195.4" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="153.828" y="488.75" width="195.4" height="68"/>
+    <ellipse style="fill: #000000" cx="158.828" cy="498.75" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="162.828" y="504.75">user_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="280.628" y="504.75">INTEGER</text>
+    <ellipse style="fill: #000000" cx="158.828" cy="514.75" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="162.828" y="520.75">friend_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="280.628" y="520.75">INTEGER</text>
+    <polygon style="fill: #000000" points="156.828,530.75 158.828,533.75 160.828,530.75 158.828,527.75 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="162.828" y="536.75">fid</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="280.628" y="536.75">BIGINT</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="162.828" y1="538.35" x2="326.828" y2="538.35"/>
+    <ellipse style="fill: #000000" cx="158.828" cy="546.75" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="162.828" y="552.75">request_status</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="280.628" y="552.75">CHAR (1)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="494.332,321.32 372.41,321.32 372.41,346.236 327.988,346.236 "/>
+    <polygon style="fill: #000000" points="320.488,346.236 330.488,341.236 327.988,346.236 330.488,351.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="320.488,346.236 330.488,341.236 327.988,346.236 330.488,351.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="494.686,321.32 372.41,321.32 372.41,362.236 327.988,362.236 "/>
+    <polygon style="fill: #000000" points="320.488,362.236 330.488,357.236 327.988,362.236 330.488,367.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="320.488,362.236 330.488,357.236 327.988,362.236 330.488,367.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="720.316,315.952 820.5,315.952 820.5,346.46 874.888,346.46 "/>
+    <polygon style="fill: #000000" points="882.388,346.46 872.388,351.46 874.888,346.46 872.388,341.46 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="882.388,346.46 872.388,351.46 874.888,346.46 872.388,341.46 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="720.316,315.952 820.5,315.952 820.5,509.92 888.182,509.92 "/>
+    <polygon style="fill: #000000" points="895.682,509.92 885.682,514.92 888.182,509.92 885.682,504.92 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="895.682,509.92 885.682,514.92 888.182,509.92 885.682,504.92 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="720.316,315.952 820.5,315.952 820.5,629.012 859.504,629.012 "/>
+    <polygon style="fill: #000000" points="867.004,629.012 857.004,634.012 859.504,629.012 857.004,624.012 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="867.004,629.012 857.004,634.012 859.504,629.012 857.004,624.012 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="494.332,321.672 372.41,321.672 372.41,498.75 358.964,498.75 "/>
+    <polygon style="fill: #000000" points="351.464,498.75 361.464,493.75 358.964,498.75 361.464,503.75 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="351.464,498.75 361.464,493.75 358.964,498.75 361.464,503.75 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="332.248,661.65 368.912,661.65 368.912,661.888 395.838,661.888 "/>
+    <polygon style="fill: #000000" points="403.338,661.888 393.338,666.888 395.838,661.888 393.338,656.888 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="403.338,661.888 393.338,666.888 395.838,661.888 393.338,656.888 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="494.332,321.32 372.41,321.32 372.41,645.65 341.984,645.65 "/>
+    <polygon style="fill: #000000" points="334.484,645.65 344.484,640.65 341.984,645.65 344.484,650.65 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="334.484,645.65 344.484,640.65 341.984,645.65 344.484,650.65 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="494.332,321.32 452.188,321.32 452.188,545.68 565.896,545.68 565.896,677.888 549.11,677.888 "/>
+    <polygon style="fill: #000000" points="541.61,677.888 551.61,672.888 549.11,677.888 551.61,682.888 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="541.61,677.888 551.61,672.888 549.11,677.888 551.61,682.888 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="720.316,315.952 759.382,315.952 759.382,546.596 599.2,546.596 599.2,677.116 617.964,677.116 "/>
+    <polygon style="fill: #000000" points="625.464,677.116 615.464,682.116 617.964,677.116 615.464,672.116 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="625.464,677.116 615.464,682.116 617.964,677.116 615.464,672.116 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="144.549,661.65 100.847,661.65 100.847,752.374 1128.82,752.374 1128.82,645.012 1089.78,645.012 "/>
+    <polygon style="fill: #000000" points="1082.28,645.012 1092.28,640.012 1089.78,645.012 1092.28,650.012 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1082.28,645.012 1092.28,640.012 1089.78,645.012 1092.28,650.012 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="869.24,661.012 850.63,661.012 850.63,661.116 794.336,661.116 "/>
+    <polygon style="fill: #000000" points="786.836,661.116 796.836,656.116 794.336,661.116 796.836,666.116 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="786.836,661.116 796.836,656.116 794.336,661.116 796.836,666.116 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1080.02,314.46 1127.4,314.46 1127.4,493.92 1041.45,493.92 "/>
+    <polygon style="fill: #000000" points="1033.95,493.92 1043.95,488.92 1041.45,493.92 1043.95,498.92 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1033.95,493.92 1043.95,488.92 1041.45,493.92 1043.95,498.92 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="480.468" y="126.522" width="226.2" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480.468" y="126.522" width="226.2" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="593.568" y="140.522">Notifications</text>
+    <rect style="fill: #ffffff" x="480.468" y="144.522" width="226.2" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="480.468" y="144.522" width="226.2" height="84"/>
+    <polygon style="fill: #000000" points="483.468,154.522 485.468,157.522 487.468,154.522 485.468,151.522 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="489.468" y="160.522">notification_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="630.368" y="160.522">BIGINT</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="489.468" y1="162.122" x2="676.568" y2="162.122"/>
+    <ellipse style="fill: #000000" cx="485.468" cy="170.522" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="489.468" y="176.522">timestamp</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="630.368" y="176.522">TIMESTAMP</text>
+    <ellipse style="fill: #000000" cx="485.468" cy="186.522" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="489.468" y="192.522">post_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="630.368" y="192.522">INTEGER</text>
+    <ellipse style="fill: #000000" cx="485.468" cy="202.522" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="489.468" y="208.522">notification_type</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="630.368" y="208.522">TEXT</text>
+    <ellipse style="fill: #000000" cx="485.468" cy="218.522" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="489.468" y="224.522">friend_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="630.368" y="224.522">INTEGER</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="160.767" y="59.0254" width="164.6" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160.767" y="59.0254" width="164.6" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="243.067" y="73.0254">Saved Post</text>
+    <rect style="fill: #ffffff" x="160.767" y="77.0254" width="164.6" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160.767" y="77.0254" width="164.6" height="68"/>
+    <polygon style="fill: #000000" points="163.767,87.0254 165.767,90.0254 167.767,87.0254 165.767,84.0254 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="169.767" y="93.0254">s_post_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="249.067" y="93.0254">INTEGER</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="169.767" y1="94.6254" x2="302.967" y2="94.6254"/>
+    <ellipse style="fill: #000000" cx="165.767" cy="103.025" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="169.767" y="109.025">post_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="249.067" y="109.025">INTEGER</text>
+    <ellipse style="fill: #000000" cx="165.767" cy="119.025" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="169.767" y="125.025">timestamp</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="249.067" y="125.025">TIMESTAMP</text>
+    <ellipse style="fill: #000000" cx="165.767" cy="135.025" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="169.767" y="141.025">user_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="249.067" y="141.025">INTEGER</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="720.316,315.952 758.656,315.952 758.656,218.522 716.404,218.522 "/>
+    <polygon style="fill: #000000" points="708.904,218.522 718.904,213.522 716.404,218.522 718.904,223.522 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="708.904,218.522 718.904,213.522 716.404,218.522 718.904,223.522 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="720.316,315.952 758.89,315.952 758.89,68.692 399.494,68.692 399.494,135.025 335.102,135.025 "/>
+    <polygon style="fill: #000000" points="327.602,135.025 337.602,130.025 335.102,135.025 337.602,140.025 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="327.602,135.025 337.602,130.025 335.102,135.025 337.602,140.025 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="493.868,321.294 372.61,321.294 372.61,514.75 358.964,514.75 "/>
+    <polygon style="fill: #000000" points="351.464,514.75 361.464,509.75 358.964,514.75 361.464,519.75 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="351.464,514.75 361.464,509.75 358.964,514.75 361.464,519.75 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="144.549,661.65 69.1494,661.65 69.1494,103.025 151.031,103.025 "/>
+    <polygon style="fill: #000000" points="158.531,103.025 148.531,108.025 151.031,103.025 148.531,98.0254 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="158.531,103.025 148.531,108.025 151.031,103.025 148.531,98.0254 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="720.316,315.952 758.738,315.952 758.738,172.522 716.404,172.522 "/>
+    <polygon style="fill: #000000" points="708.904,172.522 718.904,167.522 716.404,172.522 718.904,177.522 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="708.904,172.522 718.904,167.522 716.404,172.522 718.904,177.522 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="144.549,661.65 100.787,661.65 100.787,186.522 470.732,186.522 "/>
+    <polygon style="fill: #000000" points="478.232,186.522 468.232,191.522 470.732,186.522 468.232,181.522 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="478.232,186.522 468.232,191.522 470.732,186.522 468.232,181.522 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1080.02,314.46 1168.04,314.46 1168.04,792.66 71.5912,792.66 71.5912,709.65 134.813,709.65 "/>
+    <polygon style="fill: #000000" points="142.313,709.65 132.313,714.65 134.813,709.65 132.313,704.65 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="142.313,709.65 132.313,714.65 134.813,709.65 132.313,704.65 "/>
+  </g>
+</svg>
